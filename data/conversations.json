@@ -1,0 +1,14 @@
+{
+    "gabriel": [
+        {
+            "role": "user",
+            "message": "Meu nome é Gabriel e estou criando uma IA chamada AIDA",
+            "time": "2026-05-07T01:44:13.210537"
+        },
+        {
+            "role": "aida",
+            "message": "Pelo que a gente vinha conversando, eu entendi o que você quis dizer. Minha leitura é que você quer algo mais natural, com continuidade e menos resposta mecânica. Dá para construir isso criando memória, histórico e uma personalidade bem definida.",
+            "time": "2026-05-07T01:44:13.211859"
+        }
+    ]
+}
